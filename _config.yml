@@ -1,0 +1,28 @@
+name: BjoiNow
+favicon: null
+layout_spectrum: 0.4555684756487608
+typography_spectrum: 0.960818488849327
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6275301354471594
+  lightness: 0.4084662785753608
+  saturation: 0.7519537834450603
+  rhythmicContrast: 0.8272158773615956
+purpose: []
